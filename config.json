@@ -1,0 +1,13 @@
+{
+  "project_title": "Procurement Request Tracker",
+  "goal": "Track purchasing requests and expedite blockers.",
+  "entity_name": "request",
+  "amount_label": "cost",
+  "score_label": "urgency_score",
+  "categories": [
+    "equipment",
+    "software",
+    "services",
+    "supplies"
+  ]
+}
